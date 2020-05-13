@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Hallo!" />
+      <item value="Hello!" />
+      <item value="你好" />
+      <item value="你好卧槽" />
+      <item value="angular" />
+      <item value="e 2 e" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
