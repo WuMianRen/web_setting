@@ -1,0 +1,12 @@
+<keymap version="1" name="Windows复制" parent="$default">
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+</keymap>
