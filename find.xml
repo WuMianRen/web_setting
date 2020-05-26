@@ -1,7 +1,24 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" />
     <option name="defaultScopeName" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" />
+    <option name="FILE_MASK" value="*.html" />
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.ng</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
