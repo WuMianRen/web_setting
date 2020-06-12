@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Parameter decorator on a view-provider parameter of a class constructor * that tells the DI framework to resolve the view by checking injectors of child * elements, and stop when reaching the host element of the current component. * * For an extended example, see * [&quot;Dependency Injection Guide&quot;](guide/dependency-injection-in-action#optional). * * @usageNotes * * The following shows use with the `@Optional` decorator, and allows for a null result. * * &lt;code-example path=&quot;core/di/ts/metadata_spec.ts&quot; region=&quot;Host&quot;&gt; * &lt;/code-example&gt;" />
       <item value="Decorator that declares a DOM event to listen for, * and provides a handler method to run when that event occurs." />
       <item value="Hallo!" />
       <item value="Hello!" />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
