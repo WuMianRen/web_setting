@@ -9,4 +9,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="WebOpenInAction" />
 </keymap>
