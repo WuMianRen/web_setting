@@ -1,0 +1,5 @@
+<templateSet group="React">
+  <template name="rcc" value="import React, {Component} from 'react';&#10;import {ScrollView, View, TouchableOpacity, Text} from 'react-native'&#10;&#10;export default class Team extends Component {&#10;    render() {&#10;        return (&#10;            &lt;ScrollView style={{flex: 1}}&gt;&#10;                &lt;View&gt;&#10;                    &lt;Text&gt;&lt;/Text&gt;&#10;                &lt;/View&gt;&#10;            &lt;/ScrollView&gt;&#10;        );&#10;    }&#10;}" description="Creates a React component class with ES6 module system" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
