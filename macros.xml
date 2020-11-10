@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="wpca">
+      <action id="EditorDown" />
+      <action id="EditorEnter" />
+      <typing text-keycode="87:0;80:0">wp</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="87:0;79:0;67:0;65:0;32:0;90:0;72:0;69:0;78:0;76:0;65:0;74:0;73:0">woca&amp;#x20;zhenlaji</typing>
+    </macro>
+  </component>
+</application>
